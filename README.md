@@ -9,7 +9,7 @@
   ## Usage
   Node
   ## Installation
-  undefined
+  npm install version 8.2.4
   ## Test
   cd to Develop folder and write node index.js
   ## License
