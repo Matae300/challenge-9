@@ -29,6 +29,7 @@ ${license} license`;
 // Function to generate markdown for README
 function generateMarkdown(data) {
   return `
+# ${data.title}  
 ${renderLicenseBadge(data.license)}
 ## Table of Contents
 * [Description](#description)
